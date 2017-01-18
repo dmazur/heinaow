@@ -12,3 +12,5 @@ Requires [beep](http://www.johnath.com/beep/)
 0% test coverage
 
 Thanks to [Oskar](https://github.com/Spajt) for the (brilliant!) idea.
+Thanks Karol for translating the notes for me.
+
